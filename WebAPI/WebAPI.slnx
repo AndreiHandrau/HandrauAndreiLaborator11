@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Handrau_Andrei_Lab11/Handrau_Andrei_Lab11.csproj" />
+  <Project Path="WebAPI.csproj" />
+</Solution>
